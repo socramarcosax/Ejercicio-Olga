@@ -3,6 +3,7 @@ import comun.MatrizAlumnos;
 
 public class CalculaMedia {
 	public static void main(String[] args) {
+		//Prueba de fork , aqui pidiendo un pull request
 		int notas[][] = MatrizAlumnos.entregarNotas();
 		float[] calculaMediaMaterias = calculaMediaMaterias(notas);
 		for (int i = 0; i < calculaMediaMaterias.length; i++) {
