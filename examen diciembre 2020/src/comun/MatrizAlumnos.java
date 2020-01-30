@@ -1,7 +1,7 @@
 package comun;
 
 public class MatrizAlumnos {
-
+// esto es un proyecto
 	public static int[][] entregarNotas() {
 		int notas[][] = {
 
@@ -23,8 +23,8 @@ public class MatrizAlumnos {
 
 				"Prudencia Albatros Palomo", "Eleuterio Banda Calmar", "Crisostomo Calero Colero",
 				"Gervasio Danilo Sortosa", "Sopetran Escobar Puerto", "Euricio Gomez Tomblante",
-				"Torcuato Lucas Jimenes", "Pristino Muñoz GoñeteGuinaga", "Anacleto Perez Espinosa",
-				"Jacobo Sanchez Perruño", };
+				"Torcuato Lucas Jimenes", "Pristino MuÃ±oz GoÃ±eteGuinaga", "Anacleto Perez Espinosa",
+				"Jacobo Sanchez PerruÃ±o", };
 		return alumnos;
 	}
 
